@@ -2,6 +2,8 @@
 
 A Machine Learning-based web application that predicts the likelihood of heart disease using patient health parameters. The application is built with **Python**, **Streamlit**, and **Scikit-learn**, providing an interactive interface for prediction and explainable AI insights.
 
+Developed by **Hrishikesh Sinha** and **Aditya Prakash**.
+
 ---
 
 ## 🚀 Features
@@ -68,25 +70,25 @@ The project uses the **UCI Heart Disease Dataset**, containing patient informati
 
 ### Clone the repository
 
-```bash
+```
 git clone https://github.com/Hrishikesh-sinha/heart-disease-prediction.git
 ```
 
-Move into the project directory
+### Move into the project directory
 
-```bash
+```
 cd heart-disease-prediction
 ```
 
-Install dependencies
+### Install dependencies
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
-Run the application
+### Run the application
 
-```bash
+```
 streamlit run app.py
 ```
 
@@ -96,12 +98,8 @@ streamlit run app.py
 
 **Streamlit App**
 
-> Add your deployed Streamlit URL here after deployment.
-
-Example:
-
 ```
-https://heart-disease-prediction.streamlit.app
+https://heart-disease-prediction-tiqcphz3qekkq5ktfdskph.streamlit.app/
 ```
 
 ---
@@ -116,7 +114,7 @@ You can add screenshots of the application here after deployment.
 
 The application uses a trained classification model to predict heart disease risk based on clinical parameters.
 
-Explainable AI (SHAP) is integrated to provide feature importance and improve model transparency.
+Explainable AI (SHAP) is integrated to provide feature importance and improve model transparency, thanks to the combined efforts of **Hrishikesh Sinha** and **Aditya Prakash**.
 
 ---
 
@@ -134,7 +132,7 @@ Explainable AI (SHAP) is integrated to provide feature importance and improve mo
 
 ## 🤝 Contributing
 
-Contributions are welcome!
+Contributions are welcome! This project is actively maintained by **Hrishikesh Sinha** and **Aditya Prakash**.
 
 1. Fork the repository
 2. Create a feature branch
@@ -150,12 +148,13 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Hrishikesh Sinha**
+**Aditya Prakash**
 
-Streamlit Link - https://heart-disease-prediction-tiqcphz3qekkq5ktfdskph.streamlit.app/
+Streamlit Link - [https://heart-disease-prediction-tiqcphz3qekkq5ktfdskph.streamlit.app/](https://heart-disease-prediction-tiqcphz3qekkq5ktfdskph.streamlit.app/)
 
 ---
 
-⭐ If you found this project useful, please consider giving it a star!
+⭐ If you found this project useful, please consider giving it a star — a joint effort by **Hrishikesh Sinha** and **Aditya Prakash**!
