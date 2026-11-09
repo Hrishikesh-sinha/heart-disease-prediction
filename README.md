@@ -2,7 +2,7 @@
 
 A Machine Learning-based web application that predicts the likelihood of heart disease using patient health parameters. The application is built with **Python**, **Streamlit**, and **Scikit-learn**, providing an interactive interface for prediction and explainable AI insights.
 
-Developed by **Hrishikesh Sinha** .
+Developed by **Hrishikesh Anand** .
 
 ---
 
@@ -114,7 +114,7 @@ You can add screenshots of the application here after deployment.
 
 The application uses a trained classification model to predict heart disease risk based on clinical parameters.
 
-Explainable AI (SHAP) is integrated to provide feature importance and improve model transparency, thanks to the combined efforts of **Hrishikesh Sinha**.
+Explainable AI (SHAP) is integrated to provide feature importance and improve model transparency, thanks to the combined efforts of **Hrishikesh Anand**.
 
 ---
 
@@ -132,7 +132,7 @@ Explainable AI (SHAP) is integrated to provide feature importance and improve mo
 
 ## 🤝 Contributing
 
-Contributions are welcome! This project is actively maintained by **Hrishikesh Sinha**.
+Contributions are welcome! This project is actively maintained by **Hrishikesh Anand**.
 
 1. Fork the repository
 2. Create a feature branch
@@ -150,11 +150,11 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Authors
 
-**Hrishikesh Sinha**
+**Hrishikesh Anand**
 
 
 Streamlit Link - [https://heart-disease-prediction-tiqcphz3qekkq5ktfdskph.streamlit.app/](https://heart-disease-prediction-tiqcphz3qekkq5ktfdskph.streamlit.app/)
 
 ---
 
-⭐ If you found this project useful, please consider giving it a star — a joint effort by **Hrishikesh Sinha** and **Aditya Prakash**!
+⭐ If you found this project useful, please consider giving it a star — a joint effort by **Hrishikesh Anand** and **Aditya Prakash**!
