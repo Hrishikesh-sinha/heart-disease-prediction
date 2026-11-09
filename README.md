@@ -157,4 +157,4 @@ Streamlit Link - [https://heart-disease-prediction-tiqcphz3qekkq5ktfdskph.stream
 
 ---
 
-⭐ If you found this project useful, please consider giving it a star — a joint effort by **Hrishikesh Anand** and **Aditya Prakash**!
+⭐ If you found this project useful, please consider giving it a star!
